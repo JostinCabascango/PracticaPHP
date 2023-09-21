@@ -19,4 +19,4 @@
 - ### alçada: 1,67
 
 ## Autor
-**Nombre del Autor:** Jostin Fabian Cabascango Chavez
+- [Jostin Cabascango](https://github.com/jostin-fabian/)

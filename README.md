@@ -8,7 +8,7 @@
 
 ## Actividad 1
 1. Crear un arxiu que contingui HTML i PHP per donar la informació d’una persona la qual haurà de tindre els següents atributs:
-- [x] nom persona : Kurt
+- [#] nom persona : Kurt
 - [x] cognoms persona: Cagle
 - [x] edat de tipus numèric : 40
 - [x] data de naixement (cal buscar la funció  corresponent per a introduir dates) : 1983/05/12

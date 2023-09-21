@@ -19,4 +19,4 @@
 - [x] alçada: 1,67
 
 ## Autor
-**Nombre del Autor:** [Jostin Fabian]
+**Nombre del Autor:** Jostin Fabian Cabascango Chavez

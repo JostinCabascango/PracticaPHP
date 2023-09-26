@@ -25,4 +25,4 @@
 
 ## Autor
 
-- [Jostin Cabascango](https://github.com/jostin-fabian/)
+- [Jostin Cabascango](https://github.com/JostinCabascango/)

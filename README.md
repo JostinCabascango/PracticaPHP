@@ -13,10 +13,12 @@ PRÁCTICA 2 - PERSONA y lista cursos en PHP
 ## Índice
 
 - Sobre el Proyecto
+- Objetivos
 - Instrucciones Git/GitHub
 - Instrucciones Markdown
 - Captura de Pantalla
 - Recursos
+  
 
 ## Sobre el Proyecto
 

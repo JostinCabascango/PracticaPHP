@@ -17,8 +17,13 @@
         array(2, "Laravel", "Laravel per experts", "30"),
         array(3, "Django", "Dominant Django", "10")
     );
+    // llista de cursos
+    echo "<h1>Llista de cursos</h1>";
+    //Numero de cursos apuntats
+    echo "<h2>Numero de cursos apuntats: " . count($cursos) . "</h2>";
 
     ?>
+
 
 
 

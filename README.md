@@ -1,6 +1,14 @@
 # PracticaPHP
 
-Bienvenido al repositorio de PracticaPHP. Este proyecto está diseñado para ayudarte a aprender y practicar tus habilidades en PHP.
+PRÁCTICA 2 - PERSONA y lista cursos en PHP
+
+## Objetivos
+
+- **Utilizar PHP y HTML en un mismo archivo**:
+- **Utilizar constantes, arrays, iteraciones y operaciones**
+- **Utilizar las ramas de Git**.
+- **Resolución de problemas**:
+- **Introducción a Markdown**:
 
 ## Índice
 
@@ -32,5 +40,3 @@ Este proyecto consiste en...
 ## Recursos
 
 - [Manual de PHP](https://www.php.net/manual/es/index.php)
-
-

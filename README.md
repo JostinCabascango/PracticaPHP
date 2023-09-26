@@ -1,28 +1,36 @@
-# Persona en PHP
+# PracticaPHP
 
-## Contenido
+Bienvenido al repositorio de PracticaPHP. Este proyecto está diseñado para ayudarte a aprender y practicar tus habilidades en PHP.
 
-- [Persona en PHP](#persona-en-php)
-  - [Contenido](#contenido)
-  - [Actividad 1](#actividad-1)
-  - [Autor](#autor)
+## Índice
 
-## Actividad 1
+- Sobre el Proyecto
+- Instrucciones Git/GitHub
+- Instrucciones Markdown
+- Captura de Pantalla
+- Recursos
 
-1. Crear un arxiu que contingui HTML i PHP per donar la informació d’una persona la qual haurà de tindre els següents atributs:
+## Sobre el Proyecto
 
-- nom persona : Kurt
-- cognoms persona: Cagle
-- edat de tipus numèric : 40
-- data de naixement (cal buscar la funció corresponent per a introduir dates) : 1983/05/12
-- telèfon: 654332211, 933332211
-- adreça postal: Carrer de turin, 15
-- adreça electrònica: kurt.cagle@example.com
-- treballa : Si
-- alçada: 1,67
+Este proyecto consiste en...
 
-* Cada un dels atributs serà un variable on es guardarà la informació de la persona que posteriorment s’haurà de mostrar com una llista en HTML, tal i com es mostra a la següent captura de pantalla:
+## Instrucciones Git/GitHub
 
-## Autor
+1. Crea una nueva rama llamada "LlistaCursos".
+2. Realiza al menos dos commits en esta rama.
+3. Recuerda que los commits realizados fuera del horario de clase no se evaluarán.
 
-- [Jostin Cabascango](https://github.com/jostin-fabian/)
+## Instrucciones Markdown
+
+1. Añade una captura de pantalla del resultado final de tu práctica al archivo `README.md`.
+2. Añade un enlace a la documentación oficial de PHP.
+
+## Captura de Pantalla
+
+!Descripción de la imagen
+
+## Recursos
+
+- [Manual de PHP](https://www.php.net/manual/es/index.php)
+
+

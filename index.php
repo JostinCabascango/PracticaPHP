@@ -9,6 +9,8 @@
 
 <body>
     <?php
+    // Definicion de la constante IVA
+    define("IVA", 0.21);
 
     ?>
 

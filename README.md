@@ -37,7 +37,8 @@ Este proyecto consiste en...
 
 ## Captura de Pantalla
 
-!Descripción de la imagen
+![Descripción de la imagen](https://github.com/JostinCabascango/PracticaPHP/blob/LlistaCursos/capturaCursosPHP.png)
+
 
 ## Recursos
 

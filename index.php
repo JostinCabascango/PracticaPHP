@@ -21,7 +21,16 @@
     echo "<h1>Llista de cursos</h1>";
     //Numero de cursos apuntats
     echo "<h2>Numero de cursos apuntats: " . count($cursos) . "</h2>";
-
+    // Recorremos el array de cursos
+    foreach ($cursos as $curso) {
+        echo "<div style='border: 2px solid black;padding: 0.5rem'>";
+        echo "<img style='height: 100px;width: 100px;' src='https://cdn-icons-png.flaticon.com/512/4762/4762311.png'>";
+        echo "<h1>" . $curso[1] . "</h1>";
+        echo "<p>" . $curso[2] . "</p>";
+        echo "<p>El preu del llibre amb IVA : " . ($curso[3] + ($curso[3] * IVA)) . "</p>";
+        echo "</div>";
+    }
+    ?>
     ?>
 
 

@@ -19,7 +19,20 @@ for ($i = 0; $i < $taules; $i++) {
     $valor = rand(1, $comensalsMax);
     array_push($restaurant, $valor);
 }
-
+echo "<ul>";
+// Recorrer el array de mesas y mostrar por pantalla en formato lista
+for ($j = 0; $j < count($restaurant); $j++) {
+    $comensales = $restaurant[$j];
+    $taulaNum = $j;
+    if ($comensales == $comensalsMax) {
+        echo "<li>La taula $taulaNum está plena</li>";
+    } elseif ($comensales == 0) {
+        echo "<li>La taula $taulaNum está buida</li>";
+    } else {
+        echo "<li>La taula $taulaNum tiene $comensales comensals</li>";
+    }
+}
+echo "</ul>";
 
 ?>
 

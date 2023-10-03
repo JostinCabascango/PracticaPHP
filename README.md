@@ -1,45 +1,24 @@
-# PracticaPHP
+# Práctica 3 - Gestión Hotel
 
-PRÁCTICA 2 - PERSONA y lista cursos en PHP
+Esta práctica se centra en la gestión de un hotel, incluyendo las mesas de un restaurante y las habitaciones del hotel.
 
-## Objetivos
+## Gestión de Mesas de Restaurante
 
-- **Utilizar PHP y HTML en un mismo archivo**:
-- **Utilizar constantes, arrays, iteraciones y operaciones**
-- **Utilizar las ramas de Git**.
-- **Resolución de problemas**:
-- **Introducción a Markdown**:
-
-## Índice
-
-- Objetivos
-- Sobre el Proyecto
-- Instrucciones Git/GitHub
-- Instrucciones Markdown
-- Captura de Pantalla
-- Recursos
-  
-
-## Sobre el Proyecto
-
-Este proyecto consiste en...
-
-## Instrucciones Git/GitHub
-
-1. Crea una nueva rama llamada "LlistaCursos".
-2. Realiza al menos dos commits en esta rama.
-3. Recuerda que los commits realizados fuera del horario de clase no se evaluarán.
-
-## Instrucciones Markdown
-
-1. Añade una captura de pantalla del resultado final de tu práctica al archivo `README.md`.
-2. Añade un enlace a la documentación oficial de PHP.
-
-## Captura de Pantalla
-
-![Descripción de la imagen](https://github.com/JostinCabascango/PracticaPHP/blob/LlistaCursos/capturaCursosPHP.png)
+### Descripción
 
 
-## Recursos
 
-- [Manual de PHP](https://www.php.net/manual/es/index.php)
+### Enfoque
+
+
+## Gestión de Habitaciones del Hotel
+
+### Descripción
+
+
+
+### Enfoque
+
+
+
+
